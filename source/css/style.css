@@ -448,8 +448,9 @@ a:hover, a:active {
   width: 32px;
   height: 32px;
   border-radius: 300px;
-  background-color: #3E3E3E;
+  background-color: #39ac39;
   margin-right: 5px;
+  display: inline;
 }
 .evernote a {
   color: #fff;
@@ -457,7 +458,7 @@ a:hover, a:active {
   font-size: 12px;
 }
 .evernote a:hover {
-  color: #ED6243;
+  color: #194d19;
   padding: 11px;
 }
 
@@ -482,6 +483,7 @@ a:hover, a:active {
   border-radius: 300px;
   background-color: #59C0FD;
   margin-right: 5px;
+  display: inline;
 }
 .twitter a {
   color: #fff;
@@ -688,8 +690,9 @@ a.btn {
   .footer {
     display: none;
   }
-
+/*
   .share {
     display: grid;
   }
+*/
 }
